@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-application-wizard",
+  "version": "1.0.0",
+  "description": "Bootstrap application wizard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikcub/bootstrap-application-wizard.git"
+  },
+  "author": "Nik Cubrilovic <nikcub@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikcub/bootstrap-application-wizard/issues"
+  },
+  "homepage": "https://github.com/nikcub/bootstrap-application-wizard#readme"
+}
